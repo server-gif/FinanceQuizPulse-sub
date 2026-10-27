@@ -1,12 +1,21 @@
 /* ===== DUMMY/TEST AD UNIT CODES (Replace with real GAM ad units before going live) ===== */
 
 window.adsKeys = {
-    display_001: "/21775744923/example/banner",
-    display_002: "/6355419/Travel/Europe/France",
-    display_003: "/6355419/Travel/Europe/France",
-    interstitial_001: "/21775744923/example/interstitial",
-    anchor_001: "/21775744923/example/adaptive-banner",
-    rewoarded_001: "/22639388115/rewarded_web_example",
+    display_001: "/23338698373/financequizpulse_display_001",
+    display_002: "/23338698373/financequizpulse_display_002",
+    display_003: "/23338698373/financequizpulse_display_003",
+    interstitial_001: "/23338698373/financequizpulse_interstitial_001",
+    anchor_001: "/23338698373/financequizpulse_anchor_001",
+    rewoarded_001: "/23338698373/financequizpulse_rewarded_001",
+    // display_001: "/21775744923/example/banner",
+    // display_002: "/6355419/Travel/Europe/France",
+    // display_003: "/6355419/Travel/Europe/France",
+    // interstitial_001: "/21775744923/example/interstitial",
+    // anchor_001: "/21775744923/example/adaptive-banner",
+    // rewoarded_001: "/22639388115/rewarded_web_example",
+
+
+
 };
 
 console.log("[ADKEYS] ads-keys.js LOADED. Ad units:", JSON.stringify(window.adsKeys));
